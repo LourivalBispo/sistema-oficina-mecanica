@@ -1,0 +1,3 @@
+Sistema de Gerenciamento para Oficina Mecânica
+Este projeto utiliza apenas bibliotecas padrão do Python
+Não são necessárias dependências externas
